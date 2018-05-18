@@ -2,7 +2,7 @@
 some esp32 arduino code snippets
 
 - `touch-interrupt`
-  - determine single machine events and long press events by touch interrupts.
+  - determine click events and long press events by touching interrupts.
   - functions
     - checked `pressed`
     - checked `long pressed`
