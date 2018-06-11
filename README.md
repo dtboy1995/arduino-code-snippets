@@ -1,11 +1,12 @@
 # arduino-code-snippets
-some esp32 arduino code snippets
+
+一些esp32 arduino的代码片段
 
 - `touch-interrupt`
-  - determine click events and long press events by touching interrupts.
-  - functions
-    - checked `pressed`
-    - checked `long pressed`
+  - 可以模拟单机和长按的触发
+  - 功能
+    - 判断是否是单机
+    - 判断是否是长按
 
 # GPIO中断
 
